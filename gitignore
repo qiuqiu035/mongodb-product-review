@@ -1,0 +1,10 @@
+# Ignore Python environment
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.sqlite3
+.DS_Store
+
+# Ignore data and logs if needed
+*.log

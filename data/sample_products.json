@@ -1,0 +1,72 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 19.99,
+    "in_stock": true
+  },
+  {
+    "product_id": "P1002",
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 49.99,
+    "in_stock": true
+  },
+  {
+    "product_id": "P1003",
+    "name": "Notebook",
+    "category": "Office",
+    "price": 4.99,
+    "in_stock": true
+  },
+  {
+    "product_id": "P1004",
+    "name": "Standing Desk",
+    "category": "Office",
+    "price": 199.99,
+    "in_stock": false
+  },
+  {
+    "product_id": "P1005",
+    "name": "Water Bottle",
+    "category": "Outdoors",
+    "price": 14.99,
+    "in_stock": true
+  },
+  {
+    "product_id": "P1006",
+    "name": "Fitness Tracker",
+    "category": "Fitness",
+    "price": 79.99,
+    "in_stock": true
+  },
+  {
+    "product_id": "P1007",
+    "name": "Smartphone Stand",
+    "category": "Accessories",
+    "price": 12.99,
+    "in_stock": true
+  },
+  {
+    "product_id": "P1008",
+    "name": "LED Desk Lamp",
+    "category": "Home",
+    "price": 29.99,
+    "in_stock": false
+  },
+  {
+    "product_id": "P1009",
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 24.99,
+    "in_stock": true
+  },
+  {
+    "product_id": "P1010",
+    "name": "Backpack",
+    "category": "Travel",
+    "price": 39.99,
+    "in_stock": true
+  }
+]

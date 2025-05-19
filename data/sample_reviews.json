@@ -1,0 +1,303 @@
+[
+  {
+    "review_id": "R2001",
+    "product_id": "P1001",
+    "user": "dave42",
+    "rating": 3,
+    "comment": "Not worth the price."
+  },
+  {
+    "review_id": "R2002",
+    "product_id": "P1001",
+    "user": "bob4",
+    "rating": 2,
+    "comment": "Fast delivery and good packaging."
+  },
+  {
+    "review_id": "R2003",
+    "product_id": "P1001",
+    "user": "grace91",
+    "rating": 3,
+    "comment": "Poor customer support experience."
+  },
+  {
+    "review_id": "R2004",
+    "product_id": "P1001",
+    "user": "bob22",
+    "rating": 5,
+    "comment": "Not worth the price."
+  },
+  {
+    "review_id": "R2005",
+    "product_id": "P1002",
+    "user": "frank24",
+    "rating": 2,
+    "comment": "Excellent product, works perfectly!"
+  },
+  {
+    "review_id": "R2006",
+    "product_id": "P1002",
+    "user": "frank26",
+    "rating": 1,
+    "comment": "Disappointed with the quality."
+  },
+  {
+    "review_id": "R2007",
+    "product_id": "P1002",
+    "user": "emma99",
+    "rating": 4,
+    "comment": "Great value for money."
+  },
+  {
+    "review_id": "R2008",
+    "product_id": "P1002",
+    "user": "bob48",
+    "rating": 1,
+    "comment": "Disappointed with the quality."
+  },
+  {
+    "review_id": "R2009",
+    "product_id": "P1002",
+    "user": "frank74",
+    "rating": 5,
+    "comment": "Great value for money."
+  },
+  {
+    "review_id": "R2010",
+    "product_id": "P1003",
+    "user": "dave51",
+    "rating": 4,
+    "comment": "Excellent product, works perfectly!"
+  },
+  {
+    "review_id": "R2011",
+    "product_id": "P1003",
+    "user": "dave13",
+    "rating": 2,
+    "comment": "Highly recommend this to everyone."
+  },
+  {
+    "review_id": "R2012",
+    "product_id": "P1003",
+    "user": "harry74",
+    "rating": 2,
+    "comment": "Great value for money."
+  },
+  {
+    "review_id": "R2013",
+    "product_id": "P1003",
+    "user": "emma18",
+    "rating": 2,
+    "comment": "Great value for money."
+  },
+  {
+    "review_id": "R2014",
+    "product_id": "P1004",
+    "user": "carol61",
+    "rating": 4,
+    "comment": "Very satisfied with the quality."
+  },
+  {
+    "review_id": "R2015",
+    "product_id": "P1004",
+    "user": "bob94",
+    "rating": 5,
+    "comment": "Excellent product, works perfectly!"
+  },
+  {
+    "review_id": "R2016",
+    "product_id": "P1004",
+    "user": "carol71",
+    "rating": 2,
+    "comment": "Fast delivery and good packaging."
+  },
+  {
+    "review_id": "R2017",
+    "product_id": "P1004",
+    "user": "alice80",
+    "rating": 3,
+    "comment": "Stopped working after a week."
+  },
+  {
+    "review_id": "R2018",
+    "product_id": "P1004",
+    "user": "grace27",
+    "rating": 1,
+    "comment": "Very satisfied with the quality."
+  },
+  {
+    "review_id": "R2019",
+    "product_id": "P1005",
+    "user": "carol76",
+    "rating": 2,
+    "comment": "Fast delivery and good packaging."
+  },
+  {
+    "review_id": "R2020",
+    "product_id": "P1005",
+    "user": "ivy81",
+    "rating": 3,
+    "comment": "Very satisfied with the quality."
+  },
+  {
+    "review_id": "R2021",
+    "product_id": "P1005",
+    "user": "bob63",
+    "rating": 5,
+    "comment": "Highly recommend this to everyone."
+  },
+  {
+    "review_id": "R2022",
+    "product_id": "P1005",
+    "user": "ivy94",
+    "rating": 2,
+    "comment": "Fast delivery and good packaging."
+  },
+  {
+    "review_id": "R2023",
+    "product_id": "P1005",
+    "user": "frank22",
+    "rating": 2,
+    "comment": "Highly recommend this to everyone."
+  },
+  {
+    "review_id": "R2024",
+    "product_id": "P1006",
+    "user": "ivy96",
+    "rating": 4,
+    "comment": "Would not buy again."
+  },
+  {
+    "review_id": "R2025",
+    "product_id": "P1006",
+    "user": "bob95",
+    "rating": 2,
+    "comment": "Highly recommend this to everyone."
+  },
+  {
+    "review_id": "R2026",
+    "product_id": "P1006",
+    "user": "harry72",
+    "rating": 2,
+    "comment": "Highly recommend this to everyone."
+  },
+  {
+    "review_id": "R2027",
+    "product_id": "P1006",
+    "user": "jack18",
+    "rating": 5,
+    "comment": "Great value for money."
+  },
+  {
+    "review_id": "R2028",
+    "product_id": "P1006",
+    "user": "dave83",
+    "rating": 5,
+    "comment": "Excellent product, works perfectly!"
+  },
+  {
+    "review_id": "R2029",
+    "product_id": "P1007",
+    "user": "emma83",
+    "rating": 1,
+    "comment": "Would not buy again."
+  },
+  {
+    "review_id": "R2030",
+    "product_id": "P1007",
+    "user": "carol55",
+    "rating": 3,
+    "comment": "Great value for money."
+  },
+  {
+    "review_id": "R2031",
+    "product_id": "P1007",
+    "user": "harry96",
+    "rating": 2,
+    "comment": "Highly recommend this to everyone."
+  },
+  {
+    "review_id": "R2032",
+    "product_id": "P1008",
+    "user": "alice36",
+    "rating": 5,
+    "comment": "Excellent product, works perfectly!"
+  },
+  {
+    "review_id": "R2033",
+    "product_id": "P1008",
+    "user": "jack30",
+    "rating": 2,
+    "comment": "Highly recommend this to everyone."
+  },
+  {
+    "review_id": "R2034",
+    "product_id": "P1008",
+    "user": "harry96",
+    "rating": 4,
+    "comment": "Excellent product, works perfectly!"
+  },
+  {
+    "review_id": "R2035",
+    "product_id": "P1008",
+    "user": "emma64",
+    "rating": 5,
+    "comment": "Not worth the price."
+  },
+  {
+    "review_id": "R2036",
+    "product_id": "P1009",
+    "user": "emma22",
+    "rating": 3,
+    "comment": "Highly recommend this to everyone."
+  },
+  {
+    "review_id": "R2037",
+    "product_id": "P1009",
+    "user": "ivy82",
+    "rating": 3,
+    "comment": "Great value for money."
+  },
+  {
+    "review_id": "R2038",
+    "product_id": "P1009",
+    "user": "grace14",
+    "rating": 4,
+    "comment": "Would not buy again."
+  },
+  {
+    "review_id": "R2039",
+    "product_id": "P1009",
+    "user": "frank23",
+    "rating": 4,
+    "comment": "Great value for money."
+  },
+  {
+    "review_id": "R2040",
+    "product_id": "P1009",
+    "user": "emma50",
+    "rating": 1,
+    "comment": "Would not buy again."
+  },
+  {
+    "review_id": "R2041",
+    "product_id": "P1010",
+    "user": "harry43",
+    "rating": 1,
+    "comment": "Would not buy again."
+  },
+  {
+    "review_id": "R2042",
+    "product_id": "P1010",
+    "user": "frank53",
+    "rating": 1,
+    "comment": "Poor customer support experience."
+  },
+  {
+    "review_id": "R2043",
+    "product_id": "P1010",
+    "user": "dave91",
+    "rating": 2,
+    "comment": "Fast delivery and good packaging."
+  }
+]
