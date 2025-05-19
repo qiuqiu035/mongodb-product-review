@@ -7,7 +7,7 @@ This project demonstrates a complete data pipeline for storing, querying, and an
 - Keyword-based review search
 - Aggregation queries to calculate average product ratings
 - Visualization with matplotlib
-- CSV export for further analysis or Power BI
+- CSV export for further analysis
 
 ---
 
@@ -98,6 +98,8 @@ python scripts/query_keywords.py
 
 ## Author
 
-This project was created for educational and portfolio purposes to demonstrate real-world MongoDB and Python data analysis workflows.
+**Hongyu Guo**  
+ETL & Review Analysis Project (2025)  
+MongoDB | Python | Pandas | Matplotlib | JSON | CSV | NoSQL 
 
 ---
